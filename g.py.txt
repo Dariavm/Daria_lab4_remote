@@ -1,2 +1,4 @@
-echo "print('Hello, Git!')" >> g.py.txt
-echo "x = 5 + 3" >> g.py.txt
+print('Hello, World!')
+print('Привет из ветки main и branch1!')
+print('Это главная ветка main')
+print('Это ветка branch1')
