@@ -1,0 +1,1 @@
+echo "username = admin" > config.ini.txtновый коммит в main
