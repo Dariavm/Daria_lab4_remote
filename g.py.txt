@@ -1,1 +1,4 @@
-echo "print('Hello, World!')" > g.py
+echo "print('Hello, World!')" > g.py.txt
+echo "print('Привет из ветки branch1!')" >> g.py.txt
+echo "print('Это ветка branch1')" >> g.py.txt
+echo "print('НОВАЯ СТРОКА ДЛЯ КОНФЛИКТА')" >> g.py.txt
