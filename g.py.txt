@@ -1,4 +1,10 @@
 echo "print('Hello, World!')" > g.py.txt
+<<<<<<< HEAD
 echo "print('Привет из ветки main!')" >> g.py.txt
 echo "print('Это главная ветка main')" >> g.py.txt
 echo "print('ДРУГАЯ СТРОКА ДЛЯ КОНФЛИКТА')" >> g.py.txt
+=======
+echo "print('Привет из ветки branch1!')" >> g.py.txt
+echo "print('Это ветка branch1')" >> g.py.txt
+echo "print('НОВАЯ СТРОКА ДЛЯ КОНФЛИКТА')" >> g.py.txt
+>>>>>>> branch1
