@@ -1,1 +1,2 @@
-echo "print('Hello, World!')" > g.py
+echo "print('Hello, Git!')" >> g.py.txt
+echo "x = 5 + 3" >> g.py.txt
